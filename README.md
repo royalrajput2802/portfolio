@@ -1,3 +1,10 @@
+
+
+
+
+![gojo](https://github.com/user-attachments/assets/01a3b5d5-0736-4ccf-b962-ba9bb72b992d)
+
+
 - 👋 Hi, I’m Royal Rajput
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning python
